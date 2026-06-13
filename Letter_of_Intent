@@ -1,0 +1,123 @@
+LETTER OF INTENT (LOI)
+
+## NSS Open Projects 2026
+
+### Track
+
+Track 4 – Product & Service Innovation
+
+### Challenge
+
+Challenge 4.1 – Volunteer–NGO Matching Platform
+
+### Project Title
+
+*SevaConnect: AI-Powered Volunteer–NGO Matching Platform*
+
+### Team Details
+
+Team Name: DEV DUE
+
+Team Members:
+
+1. GEETA
+2. RISHMA MEHTA 
+
+Department: ELECTRICAL
+
+
+## Introduction
+
+Non-Governmental Organizations (NGOs) play a crucial role in addressing social, educational, environmental, and community development challenges. However, many NGOs face difficulties in finding volunteers with the appropriate skills, interests, and availability. At the same time, students and professionals willing to contribute to social causes often struggle to discover suitable volunteering opportunities.
+
+This mismatch results in reduced volunteer participation, inefficient resource utilization, and limited social impact.
+
+---
+
+## Proposed Solution
+
+Our team proposes *SevaConnect*, an AI-powered Volunteer–NGO Matching Platform designed to bridge the gap between NGOs and volunteers.
+
+The platform will intelligently match volunteers with NGOs based on:
+
+* Skills and expertise
+* Areas of interest
+* Geographic location
+* Availability
+* Previous volunteering experience
+
+The system will provide personalized recommendations, helping NGOs recruit suitable volunteers while enabling volunteers to discover meaningful opportunities.
+
+---
+
+## Key Features
+
+### Volunteer Module
+
+* Profile Creation
+* Skill Assessment
+* Interest Selection
+* Opportunity Recommendations
+* Volunteer Hours Tracking
+
+### NGO Module
+
+* NGO Registration
+* Opportunity Posting
+* Volunteer Management Dashboard
+* Analytics and Reporting
+
+### AI Matching Engine
+
+* Skill-based Matching
+* Interest-based Recommendations
+* Location-based Filtering
+* Availability Analysis
+
+### Impact Tracking
+
+* Volunteer Contribution Reports
+* NGO Performance Metrics
+* Digital Certificates
+
+---
+
+## Expected Impact
+
+The proposed platform aims to:
+
+* Increase volunteer engagement and participation.
+* Reduce NGO recruitment efforts and costs.
+* Improve the efficiency of volunteer allocation.
+* Enhance collaboration between NGOs and communities.
+* Generate measurable social impact through increased volunteer hours.
+
+Assuming a network of 5,000 volunteers and 100 NGOs, improving matching efficiency from 40% to 75% could generate approximately 35,000 additional volunteer service hours annually.
+
+---
+
+## Feasibility
+
+The project will be developed using widely available and cost-effective technologies:
+
+* Frontend: React.js
+* Backend: Node.js / Express
+* Database: MongoDB
+* AI Engine: Python and Scikit-Learn
+* Hosting: Vercel / Render
+
+The solution is technically feasible, financially viable, and scalable for nationwide implementation.
+
+---
+
+## Conclusion
+
+SevaConnect seeks to strengthen the relationship between NGOs and volunteers through technology-driven innovation. By enabling intelligent volunteer matching and impact tracking, the platform can significantly improve social participation and community development outcomes.
+
+Our team is committed to developing a functional prototype and demonstrating the platform's potential to create sustainable social impact.
+
+### Submitted By - GEETA  & RISHMA MEHTA
+
+Team Name: DEV DUO
+
+Date: 13 th JUNE 2026
